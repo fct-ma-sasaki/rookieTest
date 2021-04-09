@@ -1,0 +1,5 @@
+ git clone git@github.com:fct-ma-sasaki/rookieTest.git
+ git add *
+ git commit -m "commit"
+ git branch -M main
+ git push -u origin main
